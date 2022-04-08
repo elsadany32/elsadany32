@@ -26,7 +26,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=randa-11295&show_icons=true&locale=en&layout=compact" alt="randa-11295" /></p>
 
-
+<br/>
 <p>&nbsp;
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=randa-11295&show_icons=true&locale=en" alt="randa-11295" /></p>
 
