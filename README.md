@@ -5,12 +5,11 @@
 
 - 👨‍💻 All of my projects are available at on github
 
-
-- 💬 You can ask me about ❓: Reactjs , Nextjs , Nodejs , Expressjs , Unit Testing , MongoDB and Mongoose | ODM , PostgreSQL , Docker , Kubernetes , Nginx , distributed systems , CI/CD , Linux OS , Serverless , Terraform and AWS Cloud Provider.
-
 - 📧 How to contact with  me: mohammedelsadany1113@gmail.com .
 
 - 👨🏻‍🎓 Linkedin  ✌️✌️   [LinkedIn](https://www.linkedin.com/in/mohamed-elsadany-5ab427203) . 
+ 
+- 💬 You can ask me about ❓: Reactjs , Nextjs , Nodejs , Expressjs , Unit Testing , MongoDB and Mongoose | ODM , PostgreSQL , Docker , Kubernetes , Nginx , distributed systems , CI/CD , Linux OS , Serverless , Terraform and AWS Cloud Provider.
  
  
  <h3 align="left">Languages and Tools:</h3>
