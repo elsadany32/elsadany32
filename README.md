@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=randa-11295&label=Profile%20views&color=0e75b6&style=flat" alt="randa-11295" /> </p>
 
-- 💬 You can ask me about ❓: Reactjs , Nextjs , Nodejs , Expressjs , Unit Testing , MongoDB and Mongoose | ODM , PostgreSQL , C# , ASP.NET Core MVC , Microsoft SQL Server , Entity Framework , Docker , Kubernetes , Nginx , distributed systems , CI/CD , Linux OS , Serverless , Terraform and AWS Cloud Provider.
+- 💬 You can ask me about ❓: Reactjs , Nextjs , Nodejs , Expressjs , Unit Testing , MongoDB and Mongoose | ODM , PostgreSQL , Docker , Kubernetes , Nginx , distributed systems , CI/CD , Linux OS , Serverless , Terraform and AWS Cloud Provider.
 
 - 📧 How to contact with  me: mohammedelsadany1113@gmail.com .
 
