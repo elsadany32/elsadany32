@@ -9,7 +9,7 @@
 
 - 👨🏻‍🎓 Linkedin  ✌️✌️   [LinkedIn](https://www.linkedin.com/in/mohamed-elsadany-5ab427203) . 
  
-- 💬 You can ask me about ❓: Reactjs , Nextjs , Nodejs and GoLang  , Expressjs , GraphQL , MongoDB and Mongoose | ODM , SQL (PostgreSQL , MySQL) , Docker , Kubernetes , Nginx , distributed systems , CI/CD , Linux OS , Serverless , Terraform and AWS Cloud Provider.
+- 💬 You can ask me about ❓: Reactjs , Nextjs , Nodejs and GoLang , GraphQL , MongoDB and Mongoose | ODM , SQL (PostgreSQL , MySQL) , Docker , Kubernetes , Nginx , distributed systems , CI/CD , Linux OS , Serverless , Terraform and AWS Cloud Provider.
  
  
  <h3 align="left">Languages and Tools:</h3>
